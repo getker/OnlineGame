@@ -30,7 +30,10 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
-
+UHotGames/ab1/
+UHotGames/Release/
+UHotGames/RemoteResources/
+UHotGames/Assets/RemoteResources/Dll/
 # Builds
 *.apk
 *.unitypackage
